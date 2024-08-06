@@ -72,7 +72,7 @@ This project leverages the Streamlit library to create an interactive web interf
 
 ## Project Demo
 
-Watch the demo video by clicking [here](path/to/your/video.mp4).
+Watch the demo video by clicking [here](https://github.com/DanielaMorariu1990/EDA_analysis_with_LLM/blob/main/project_demo.mov).
 
 ## License
 
